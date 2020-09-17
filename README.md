@@ -1,12 +1,12 @@
 # News-Tweet Paired Dataset (NTPair)
 
 This repository consists of (1) a news-tweet paired dataset and (2) an analysis tool for measuring the effects of a style change for news sharing on social media engagement. 
-For more details, please refer to the preprint titled "[Understanding the Effects of Editing News Headlines by Media Accounts on Social Media Engagement through Computational Frameworks](https://NA)."
+For more details, please refer to the preprint titled "[Understanding Effects of Editing Tweets for News Sharing by Media Accounts through a Causal Inference Framework](https://NA)."
 
 If you are using the dataset or the analysis tool, please cite our ICWSM-21 version of this paper.
 ```
 @inproceedings{park2021news,
-  title={Understanding the Effects of Editing News Headlines by Media Accounts on Social Media Engagement through Computational Frameworks},
+  title={Understanding Effects of Editing Tweets for News Sharing by Media Accounts through a Causal Inference Framework},
   author={Park, Kunwoo and Kwak, Haewoon and An, Jisun and Chawla, Sanjay},
   booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
   year={2021}
@@ -30,7 +30,7 @@ tweet_id, headline, bodytext_feature
 1060538143068299264,Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall,"[-2.43365043e-03 -1.44351162e-02 ...]"
 ```
 
-The dataset is available at [Havard Dataverse]().
+The dataset is available at [Havard Dataverse](https://doi.org/10.7910/DVN/SUHOKZ).
 
 
 ## Computational Framework
