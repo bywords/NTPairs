@@ -1,4 +1,4 @@
-# News-Tweet Paired Dataset (NTPair)
+# News-Tweet Paired Dataset (NTPairs)
 
 This repository consists of (1) a news-tweet paired dataset and (2) an analysis tool for measuring the effects of a style change for news sharing on social media engagement. 
 For more details, please refer to the preprint titled "[Understanding Effects of Editing Tweets for News Sharing by Media Accounts through a Causal Inference Framework](https://NA)."
