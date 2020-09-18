@@ -33,6 +33,6 @@ tweet_id, headline, bodytext_feature
 The dataset is available at [Havard Dataverse](https://doi.org/10.7910/DVN/SUHOKZ).
 
 
-## Computational Framework
+## Analysis Tool
 
 *TBD*
