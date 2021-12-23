@@ -1,12 +1,12 @@
 # News-Tweet Paired Dataset (NTPairs)
 
 This repository consists of (1) a news-tweet paired dataset and (2) an analysis tool for measuring the effects of a style change for news sharing on social media engagement. 
-For more details, please refer to the preprint titled "[Understanding Effects of Editing Tweets for News Sharing by Media Accounts through a Causal Inference Framework](https://NA)."
+For more details, please refer to the preprint titled "[How-to Present News on Social Media: A Causal Analysis of Editing News Headlines for Boosting User Engagement](https://ojs.aaai.org/index.php/ICWSM/article/view/18078)."
 
 If you are using the dataset or the analysis tool, please cite our ICWSM-21 version of this paper.
 ```
 @inproceedings{park2021news,
-  title={Understanding Effects of Editing Tweets for News Sharing by Media Accounts through a Causal Inference Framework},
+  title={How-to Present News on Social Media: A Causal Analysis of Editing News Headlines for Boosting User Engagement},
   author={Park, Kunwoo and Kwak, Haewoon and An, Jisun and Chawla, Sanjay},
   booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
   year={2021}
